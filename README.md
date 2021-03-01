@@ -3,7 +3,7 @@
 
 ## Part 1 Implementation
 To access part 1 implementation, please refer to the file Part1_combined.ipynb
-Collab Link:
+Collab Link: [Part 1](https://colab.research.google.com/github/TerrenceCKCHAN/NLP-news-funniness/blob/main/Part1_combined.ipynb)
 
 The file comes with three models and three different embeddings to choose from and shows the train, validation and test loss as well as graphs showing the losses vs epochs during training.
 
