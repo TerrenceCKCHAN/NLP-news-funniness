@@ -32,7 +32,7 @@ To access part 2 implementation, please refer to the file Part2_experiments.ipyn
 
 Preprocessing (stemming and lemmatization) and models tested (linear regression, polynomial regression, SVR, random forest regression, lasso and ridge regression) are available under the corresponding headings in the notebook.
 
-Before running model cells, run the cells included before the 'Approach 2: No pre-trained representations' heading. Ensure that the train, dev and test csv files are uploaded to drive.
+Before running model cells, run the cells included before the 'Approach 2: No pre-trained representations' heading. Ensure that the train, dev and test csv files are uploaded to the relevant folder of the mounted google drive.
 
 Collab Link: [Part 2](https://colab.research.google.com/github/TerrenceCKCHAN/NLP-news-funniness/blob/main/Part2_experiments.ipynb)
 
